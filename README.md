@@ -4,7 +4,7 @@
 
 * **Name:** Abu Huraira
 * **Roll No:** Sp24-BAI-002
-* **Course:** AIC270 - Programming for Artificial Intelligence
+* **Course:** AIC270 - Programming for Artificial Intelligence (Version 2.0)
 * **Semester:** 5th
 * **Instructor:** Mr. Shahrukh Naeem
 * **University:** COMSATS University Islamabad, Lahore Campus
